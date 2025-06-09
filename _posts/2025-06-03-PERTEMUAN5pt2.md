@@ -2,7 +2,7 @@
 title: DIJKSTRA's ALGORITHM
 date: 2025-05-27
 categories: [DESAIN ANALISIS ALGORITMA, DIJKSTRA's ALGORITHM]
-tags: [daa, algorithm, backtracking, dijijkstra]     # TAG names should always be lowercase
+tags: [daa, algorithm, backtracking, dijkstra]     # TAG names should always be lowercase
 ---
 
 Pernahkah klen bertanya-tanya? bagaimana aplikasi peta seperti Google Maps dapat menemukan rute tercepat ke tujuan Anda di antara ribuan kemungkinan jalan? Jawabannya terletak pada algoritma pencarian jalur yang cerdas. Salah satu yang paling fundamental dan terkenal adalah **Algoritma Dijkstra**.
