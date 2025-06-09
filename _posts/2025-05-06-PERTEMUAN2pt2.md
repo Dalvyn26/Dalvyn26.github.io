@@ -2,7 +2,7 @@
 title: FRACTIONAL KNAPSACK
 date: 2025-05-06
 categories: [DESAIN ANALISIS ALGORITMA, GREEDY ALGORITHM]
-tags: [daa, algorithm]     # TAG names should always be lowercase
+tags: [daa, algorithm, greedy]     # TAG names should always be lowercase
 ---
 
 ![Desktop View](https://res.cloudinary.com/codecrucks/images/f_webp,q_auto/v1634623105/fractional-knapsack/fractional-knapsack.jpg?_i=AA){: width="500"}
