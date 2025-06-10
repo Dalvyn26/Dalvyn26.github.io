@@ -11,7 +11,7 @@ order: 4
 
 ---
 
-OLAA! I'm **Dalvyn Suhada**, though most call me Dalvyn. I'm currently pursuing a degree in Information Systems at Hasanuddin University, where I'm constantly exploring the dynamic realms of **digital technologies, artificial intelligence, and web development**. Beyond the screen, I have a strong passion for **photography and videography**, finding joy in capturing and creating visual stories.
+OLAA! I'm **Dalvyn Suhada**, though most call me Dalvyn. I'm currently pursuing a degree in Information Systems at Hasanuddin University, where I'm constantly exploring the dynamic realms of **digital technologies, artificial intelligence (AI), and web development**. Beyond the screen, I have a strong passion for **photography and videography**, finding joy in capturing and creating visual stories.
 
 ---
 
@@ -30,7 +30,7 @@ OLAA! I'm **Dalvyn Suhada**, though most call me Dalvyn. I'm currently pursuing 
 
 * **Digital Innovation:** Enthusiastic about coding and exploring new developments in AI and web technologies.
 * **Leisure & Adventure:** When I'm not immersed in digital projects, you can find me swimming or enjoying a ride on my motorcycle.
-
+ 
 ---
 
 ### Let's Connect!
